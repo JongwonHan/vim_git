@@ -1,4 +1,3 @@
 name: JONG WON HAN,
 phone: +82 10-9273-0916,
 email: hideinx@gmail.com
-nickname: jjongs
